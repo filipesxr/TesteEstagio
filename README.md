@@ -1,1 +1,2 @@
-# TesteEstagio
+# TesteEstagio - Filipe Soares
+# Linguagem escolhida: Python
